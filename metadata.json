@@ -1,0 +1,5 @@
+{
+  "name": "MidtermMaster: Linux & CS",
+  "description": "An AI-powered quiz generator that analyzes your lecture PDFs to create comprehensive midterm practice exams focusing on syntax, commands, and code logic.",
+  "requestFramePermissions": []
+}
